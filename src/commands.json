@@ -1,6 +1,6 @@
 {
     "user_commands": {
-        "list":"Lists players on the server",
+        "players":"Lists players on the server",
         "me":"Displays a message about RCON",
         "say":"Says something to everyone",
         "seed":"Displays the server seed",
